@@ -6,7 +6,7 @@ const abi = compiled_contract.abi;
 const bytecode = compiled_contract.evm.bytecode.object;
 
 const provider = new HDWalletProvider({
-    mnemonic: 'liquid ordinary tortoise across total curious stock brother indicate pig message siren',
+    mnemonic: '12 words phrase',
     providerOrUrl: 'https://goerli.infura.io/v3/bd7e3bb95e2c4d9bb8063bc16275ed90',
     addressIndex: 0
 })
